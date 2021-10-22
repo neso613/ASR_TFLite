@@ -13,7 +13,7 @@ This repository provides an Automatic Speech Recognition (ASR) models in TensorF
 - [Conformer Transducer](https://arxiv.org/abs/2005.08100) using [LibriSpeech](http://www.openslr.org/12) dataset.
 
 ## References
-- [Adnroid demo app using the converted model](https://github.com/windmaple/tflite-asr)
+- [Android demo app using the converted model](https://github.com/windmaple/tflite-asr)
 - [TensorFlow Lite Conversion](https://www.tensorflow.org/lite/convert)
 - [Float16 quantization in TensorFlow Lite](https://www.tensorflow.org/lite/performance/post_training_float16_quant)
 - [Dynamic-range quantization in TensorFlow Lite](https://www.tensorflow.org/lite/performance/post_training_quant)
